@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "athens",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
