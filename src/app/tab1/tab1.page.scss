@@ -1,0 +1,66 @@
+ion-slides {
+  height: 100%;
+}
+
+img {
+  height: 175px;
+  width: 175px;
+}
+
+.swiper-slide {
+  display: block;
+}
+
+.swiper-slide h2 {
+  margin-top: .5rem;
+}
+
+.swiper-slide .bv img {
+  max-height: 50%;
+  max-width: 80%;
+  margin: 80px 0 50px;
+  pointer-events: none;
+}
+
+.swiper-slide .oq img {
+  max-height: 50%;
+  max-width: 80%;
+  margin: 25px 0 25px;
+  pointer-events: none;
+}
+
+.swiper-slide .ed img {
+  max-height: 50%;
+  max-width: 80%;
+  margin: 25px 0 25px;
+  pointer-events: none;
+}
+
+.swiper-slide .pq img {
+  max-height: 50%;
+  max-width: 80%;
+  margin: 75px 0 50px;
+  pointer-events: none;
+}
+
+.swiper-slide .f img {
+  max-height: 50%;
+  max-width: 80%;
+  margin: 100px 0 55px;
+  pointer-events: none;
+}
+
+b {
+  font-weight: 500;
+}
+
+p {
+  padding: 0 25px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--ion-color-step-600, #60646b);
+}
+
+p b {
+  color: var(--ion-text-color, #000000);
+}
